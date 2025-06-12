@@ -19,17 +19,22 @@ The moment it detects that the device is plug in it will:
 
 - 1x Digispark Attiny85
 
-![Screenshot](Assets/20250611214011.png)
+![[Assets/20250611214011.png]]
 
 That's it you can also use a custom made USB shell available in the CAD and Production Folder:
 - Cap.step
 - Body.step
 
 ## Images
-![Screenshot](Assets/6219863877793991718.jpg)
-![Screenshot](Assets/temp.jpg)
+![[Assets/6219863877793991718.jpg]]
+![[Assets/temp.jpg]]
 
-![Screenshot](Assets/6219863877793991618.jpg)
+![[Assets/6219863877793991618.jpg]]
+
+**Combined Images**
+![[Assets/6219968241204315894.jpg]]
+![[Assets/6219968241204315895.jpg]]
+![[Assets/6219968241204315896.jpg]]
 ## Extra Stuff
 
 ### Gratitude
