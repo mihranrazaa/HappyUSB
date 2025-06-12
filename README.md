@@ -26,15 +26,15 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 - Body.step
 
 ## Images
-![[Assets/6219863877793991718.jpg]]
-![[Assets/temp.jpg]]
+![Screenshot](Assets/6219863877793991718.jpg)
+![Screenshot](Assets/temp.jpg)
 
-![[Assets/6219863877793991618.jpg]]
+![Screenshot](Assets/6219863877793991618.jpg)
 
 **Combined Images**
-![[Assets/6219968241204315894.jpg]]
-![[Assets/6219968241204315895.jpg]]
-![[Assets/6219968241204315896.jpg]]
+![Screenshot](Assets/6219968241204315894.jpg)
+![Screenshot](Assets/6219968241204315895.jpg)
+![Screenshot](Assets/6219968241204315896.jpg)
 ## Extra Stuff
 
 ### Gratitude
