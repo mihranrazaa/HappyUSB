@@ -19,7 +19,7 @@ The moment it detects that the device is plug in it will:
 
 - 1x Digispark Attiny85
 
-![[Assets/20250611214011.png]]
+![Screenshot](Assets/20250611214011.png)
 
 That's it you can also use a custom made USB shell available in the CAD and Production Folder:
 - Cap.step
@@ -44,6 +44,6 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 - And Thank you for Reading?
 
 ### Challenges
-Nothing much really, i saw noticeable difference in CAD Building skill, i already had partial code written so it was not a big issue, but i'm learning constantly, I'll find a more challenging project now.. 
+Nothing much really, i saw noticeable difference in CAD Building skill, i already had partial code written so it was not a big issue, but i'm learning constantly, I'll find a more challenging project now..
 
 ~ mihranrazaa
