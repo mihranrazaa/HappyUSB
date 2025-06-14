@@ -40,8 +40,10 @@ created_at: "2026-06-10"
   
 ![Screenshot](Assets/error.jpg)
 
--Which i fixed easily by surfing stackoverflow, normal error fixes, AI. With all these my project is now compiling and the software V1 is ready for publishing.
-
+- Which i fixed easily by surfing stackoverflow, normal error fixes, AI. With all these my project is now compiling and the software V1 is ready for publishing.
+- I also added a log out feature which log out the device after completing all the other tasks i have added 3 methods by which it will log out the device one from the command prompt, one from the classic Windows security screen, then win+X method whatever works will log out the device which will be like cherry on the top.
+- i thought of shutting it down but that command requires priviliged permissions so i can't make it a universal method so i added log out option which is better then nothing.
+- I will also planning to do more features with this device like a proper backdoor creator in the future.
 - Fixed some errors 
 - Completed MVP
 - Writing Readme and fixing journal
