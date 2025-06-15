@@ -37,7 +37,7 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 
 ![Screenshot](Assets/mycad1.jpg)
 
-![Screenshot](Assets/updatedusb.jpg)
+![Screenshot](Assets/updatedusb.png)
 
 ![Screenshot](Assets/combine.png)
 
