@@ -23,15 +23,14 @@ created_at: "2026-06-10"
 - My project got reviewed and i think it is important to design the shell or CAD ourself so i will add my CAD and the Prebuilt CAD in the repo so if someone builds this project it can use anyone of the case.
 - With that my design got completed the only thing left was completing the code, which i will do tomorrow. 
 
-![Screenshot](Assets/6219863877793991618.jpg)
 
 **June11**
 
 - Completed CAD files :
 
-![Screenshot](Assets/6219863877793991718.jpg)
 
-![Screenshot](Assets/temp.jpg)
+
+
 ![Screenshot](Assets/mycad2.jpg)
 ![Screenshot](Assets/mycad1.jpg)
 
