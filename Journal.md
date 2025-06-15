@@ -52,3 +52,6 @@ created_at: "2026-06-10"
 - Time to get rereviewed.....
 - Hope i get approved 
 
+- Completely removed all the photos of the CAD not made by me so that it and added that in the CAD folder for usage, i also fixed the screw issue in my Case and added more photos of it in the README file, maybe my Project didn't get the approval because i added way too many images of the CAD which i did not created well i remember that in the future i hope this works out now...
+- i will now ping the team members for review
+- lol i'm writing this like a real journal 

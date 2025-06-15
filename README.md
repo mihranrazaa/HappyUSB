@@ -15,7 +15,7 @@ The moment it detects that the device is plug in it will:
 - Text to Speech
 - Log Out the Device
   
-## How it works 
+## Internal Workings
 So Digispark is recognised as a HID (Human Interface device) tool that gives the device full access to write anything without any antivirus popping up for removing becuase the target device will think it is a human who is writing and boom that's it, pretty simple right, this simple device can be used for ill purposes so use carefully if you don't want legal trouble.
 
 ## Why the Design 
@@ -29,24 +29,21 @@ Making a shell is really important as a USB should look normal if a BADUSB look 
 ![Screenshot](Assets/20250611214011.png)
 
 That's it you can also use a custom made USB shell available in the CAD and Production Folder there are two available options one made by me and other i found on internet :
-- Cap.step
+- top.step
 - Body.step
 
 ## Images
-![Screenshot](Assets/6219863877793991718.jpg)
-![Screenshot](Assets/temp.jpg)
-
-![Screenshot](Assets/6219863877793991618.jpg)
-
-**Combined Images**
-![Screenshot](Assets/6219968241204315894.jpg)
-![Screenshot](Assets/6219968241204315895.jpg)
-![Screenshot](Assets/6219968241204315896.jpg)
-
-**My Design**
 ![Screenshot](Assets/mycad.jpg)
+
 ![Screenshot](Assets/mycad1.jpg)
-![Screenshot](Assets/mycad2.jpg)
+
+![Screenshot](Assets/updatedusb.jpg)
+
+![Screenshot](Assets/combine.png)
+
+![Screenshot](Assets/mycad4.png)
+
+**You can also try another 3D case NOT MADE BY ME I will add that in the cad folder for you to check it out.**
 
 ## Extra Stuff
 
@@ -55,8 +52,5 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 - Thanks to my potato for helping me till the end.
 - Thanks to myself for completing the project and not getting distracted with another project.
 - And Thank you for Reading?
-
-### Challenges
-Nothing much really, i saw noticeable difference in CAD Building skill, i already had partial code written so it was not a big issue, but i'm learning constantly, I'll find a more challenging project now..
 
 ~ mihranrazaa
