@@ -57,4 +57,5 @@ created_at: "2026-06-10"
 
 **June16**
 - Update the case model with more soft design rounded the edges from both parts updated images in the README, and still not got approved ToT....
- 
+![Screenshot](Assets/newcad3.png)
+![Screenshot](Assets/newcad4.png) 
