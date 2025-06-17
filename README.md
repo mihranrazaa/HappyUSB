@@ -60,6 +60,12 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 
 ---
 
+## Next Update 
+- Screw Less Design.
+- More Payloads to use
+
+---
+
 ## Extra Stuff
 
 ### Gratitude
