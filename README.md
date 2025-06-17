@@ -41,6 +41,11 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 ---
 
 ## Images
+
+![Screenshot](Assets/newcadb.png)
+
+**The above image is the latest iteration of the case.**
+
 ![Screenshot](Assets/newcad.png)
 
 ![Screenshot](Assets/newcad3.png)
