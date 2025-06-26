@@ -29,7 +29,8 @@ Making a shell is really important as a USB should look normal if a BADUSB look 
 
 ## BOM/Specification
 
-- 1x [Digispark_Attiny85](https://www.amazon.in/Robodo-Electronics-ATTINY85V2-Digispark-Development/dp/B07B8SS1VQ/ref=sr_1_1?crid=1T6VZJ9D2P4XS&dib=eyJ2IjoiMSJ9.in1vS338p0_Z-CO2CZNwG09hMKSSUwdeY38edfPlTYgzW4bWAZewl3sKj7ft08IKUk3Jm5O_QjsaW8EV9b7Hh0sq9XS655OnD585np3mp3T_Tk2Sxej1vYe5i9O3ntLmiUd3on5uPcXhUVr8-OAHSGzNoIaP1DQzydRsyTGhiE_wMFcMGGKALWMksqD5usF9YaS1HgMBTlCC_P3hY2VhuGme_-wiEdJNvHtOyYzW37FYkiQCeR1GYwv0_YAtMu-DRzI-F1pI8r6u0-QYDZ8MQRoX7WwIgBoaOYOhYLmNUdc.IJWLIxMS9Dm_b4kmocab3dYmXBib45irXHmCpmBY2Is&dib_tag=se&keywords=digispark+attiny85&qid=1749896121&sprefix=digspark%2Caps%2C254&sr=8-1)
+- 1x [Digispark_Attiny85](https://www.amazon.in/Robodo-Electronics-ATTINY85V2-Digispark-Development/dp/B07B8SS1VQ/ref=sr_1_1?crid=1T6VZJ9D2P4XS&dib=eyJ2IjoiMSJ9.in1vS338p0_Z-CO2CZNwG09hMKSSUwdeY38edfPlTYgzW4bWAZewl3sKj7ft08IKUk3Jm5O_QjsaW8EV9b7Hh0sq9XS655OnD585np3mp3T_Tk2Sxej1vYe5i9O3ntLmiUd3on5uPcXhUVr8-OAHSGzNoIaP1DQzydRsyTGhiE_wMFcMGGKALWMksqD5usF9YaS1HgMBTlCC_P3hY2VhuGme_-wiEdJNvHtOyYzW37FYkiQCeR1GYwv0_YAtMu-DRzI-F1pI8r6u0-QYDZ8MQRoX7WwIgBoaOYOhYLmNUdc.IJWLIxMS9Dm_b4kmocab3dYmXBib45irXHmCpmBY2Is&dib_tag=se&keywords=digispark+attiny85&qid=1749896121&sprefix=digspark%2Caps%2C254&sr=8-1) | 5USD
+- 3D printed case
 
 
 ![Screenshot](Assets/20250611214011.png)
